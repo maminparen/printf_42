@@ -1,7 +1,4 @@
 # ft_printf - @42born2code
-![GitHub repo size](https://img.shields.io/github/repo-size/maminparen/printf_42)
-![GitHub last commit](https://img.shields.io/github/last-commit/maminparen/printf_42)
-
 ![score](printf.png)
 
 ### Table of Content
@@ -77,4 +74,4 @@ gcc main.c libftprintf.a
 ## Usage (some examples)
 Basic conversions:
 ![Basic](basicexample.png)
-![Basic-output](basicexamplesoutput.PNG)
+![Basic-output](basicexamplesoutput.png)
