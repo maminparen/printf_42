@@ -56,7 +56,7 @@ Placeholders:
 
 ## Installation
 ```
-git clone https://github.com/vvarodi/ft_printf
+git clone https://github.com/maminparen/printf_42.git
 cd ft_printf
 make
 ```
